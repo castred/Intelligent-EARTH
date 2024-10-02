@@ -5,9 +5,9 @@ This repository contains the workshop materials for Intelligent EARTH. This work
 
 | Date | Time | Session Title | Description |
 | :---: | :---: | :--- |  :--- |
-| 2024-11-xx | AM | Session 1: Programming for Data Analysis | Description |
-| 2024-11-xx | PM | Session 2: Statistical Methods for Geospatial Data Analysis | Description |
-| 2024-11-xx | AM | Session 3: Overview of Machine Learning | Description |
-| 2024-11-xx | PM | Session 4: Machine Learning Model Training | Description |
-| 2024-11-xx | AM | Session 5: Model Tuning and Parameter Optimization | Description |
-| 2024-11-xx | PM | Session 6: Introduction to Deep Learning | Description |
+| 2024-11-xx | AM | [Session 1: Programming for Data Analysis](https://github.com/castred/Intelligent-EARTH/tree/main/session-1) | Description |
+| 2024-11-xx | PM | [Session 2: Statistical Methods for Geospatial Data Analysis](https://github.com/castred/Intelligent-EARTH/tree/main/session-2) | Description |
+| 2024-11-xx | AM | [Session 3: Overview of Machine Learning](https://github.com/castred/Intelligent-EARTH/tree/main/session-3) | Description |
+| 2024-11-xx | PM | [Session 4: Machine Learning Model Training](https://github.com/castred/Intelligent-EARTH/tree/main/session-4) | Description |
+| 2024-11-xx | AM | [Session 5: Model Tuning and Parameter Optimization](https://github.com/castred/Intelligent-EARTH/tree/main/session-5) | Description |
+| 2024-11-xx | PM | [Session 6: Introduction to Deep Learning](https://github.com/castred/Intelligent-EARTH/tree/main/session-6) | Description |
