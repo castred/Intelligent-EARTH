@@ -3,11 +3,11 @@ This repository contains the workshop materials for Intelligent EARTH. This work
 
 ## Schedule of Activities
 
-| Date | Session Title | Description |
-| --- | --- | --- |
-| 2024-11-xx | Session 1: Programming for Data Analysis | Description |
-| 2024-11-xx | Session 2: Statistical Methods for Geospatial Data Analysis | Description |
-| 2024-11-xx | Session 3: Overview of Machine Learning | Description |
-| 2024-11-xx | Session 4: ML Model Training: Satellite Data Example | Description |
-| 2024-11-xx | Session 5: Model Tuning and Parameter Optimization | Description |
-| 2024-11-xx | Session 6: Introduction to Deep Learning | Description |
+| Date | Time | Session Title | Description |
+| --- | --- | --- |  --- |
+| 2024-11-xx | AM | Session 1: Programming for Data Analysis | Description |
+| 2024-11-xx | PM | Session 2: Statistical Methods for Geospatial Data Analysis | Description |
+| 2024-11-xx | AM | Session 3: Overview of Machine Learning | Description |
+| 2024-11-xx | PM | Session 4: ML Model Training: Satellite Data Example | Description |
+| 2024-11-xx | AM | Session 5: Model Tuning and Parameter Optimization | Description |
+| 2024-11-xx | PM | Session 6: Introduction to Deep Learning | Description |
