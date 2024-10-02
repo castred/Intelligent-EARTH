@@ -1,5 +1,7 @@
 # Intelligent EARTH: ML Applications in the Earth Sciences
-This repository contains the workshop materials for Intelligent EARTH workshop in DLSU Physics Department. This workshop aims to upskill Physics graduate students on the following: (1) Programming for Data Analysis, (2) Geospatial Data Analysis, (3) Machine Learning Methodologies for the Earth Sciences. The workshop will primarily utilize Google Colaboratory with Python 3.xx as its kernel.
+This repository contains the workshop materials for Intelligent EARTH workshop in DLSU Physics Department. 
+
+This workshop aims to upskill Physics graduate students on the following: (1) Programming for Data Analysis, (2) Geospatial Data Analysis, (3) Machine Learning Methodologies for the Earth Sciences. The workshop will primarily utilize Google Colaboratory with Python 3.xx as its kernel.
 
 <br> </br>
 
