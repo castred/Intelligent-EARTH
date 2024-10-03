@@ -1,1 +1,1 @@
-# Session 6: Introduction to Deep Learning
+# Session 6: Model Tuning, Explainable AI, & Current Trends
