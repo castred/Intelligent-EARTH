@@ -1,1 +1,1 @@
-# Session 2: Statistical Methods for Geospatial Data Analysis
+# Session 2: Methods for Geospatial Data Analysis
