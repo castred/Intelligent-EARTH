@@ -5,7 +5,7 @@ This workshop aims to upskill Physics graduate students on the following: (1) Pr
 
 <br> </br>
 
-## Schedule of Activities
+# Schedule of Activities
 
 | Date | Time | Session Title | Key Words |
 | :---: | :---: | :--- |  :---: |
@@ -15,6 +15,10 @@ This workshop aims to upskill Physics graduate students on the following: (1) Pr
 | 2024-11-xx | PM | [Session 4: Machine Learning Model Training](https://github.com/castred/Intelligent-EARTH/tree/main/session-4) |  `scikit-learn` `sckit-image` `xarray`  |
 | 2024-11-xx | AM | [Session 5: Introduction to Deep Learning](https://github.com/castred/Intelligent-EARTH/tree/main/session-5) | `scipy` `optuna` `scikit-learn` |
 | 2024-11-xx | PM | [Session 6: Model Tuning, xAI, & Current Trends](https://github.com/castred/Intelligent-EARTH/tree/main/session-6) | `pytorch` |
+
+<br> </br>
+
+# Outline of Contents
 
 <br> </br>
 
