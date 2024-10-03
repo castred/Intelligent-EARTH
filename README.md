@@ -22,6 +22,7 @@ This workshop aims to upskill Physics graduate students on the following: (1) Pr
 This session intends to review/introduce the participants with the common techniques in Data Analysis using Python and its common data processing libraries.
 
 The following topics will be covered:
+
 * Introduction to Computational Thinking
 * Python Objects and Functions
 * NumPy: Numerical Python
@@ -32,16 +33,19 @@ The following topics will be covered:
 This session aims to narrow the discussion of data analysis to geospatial data structures and the fundamental methods to make meaning out of geospatial data. The main tool remains to be Python but with the addition of geoprocessing-specific libraries.
 
 The following topics will be covered:
+
 * Introduction to Geospatial Data: Collection and Structure
 * Accessing, Processing, and Visualizing Geospatial Data
   - Vector Data
   - Raster Data
   - Point Cloud Data
 * Overview of Geographic Information Systems
+
 * Geostatistical Methods
   - 2D Interpolation
   - Variogram
   - Krigging
+
 * Time Series Analysis & Forecasting
   - Time Series Decomposition
   - Autoregressive Model
@@ -50,40 +54,67 @@ The following topics will be covered:
   - Prophet Model
 
 ## Session 3: Overview of Machine Learning
-Description
+This section contains materials on the introduction to Machine Learning and its applications to Earth Sciences. This will help participants understand the different types of learning tasks and the procedural steps in building machine learning models.
+
+The following topics will be covered:
 
 * Overview of Machine Learning
 * Importance of Machine Learning targeted towards Earth Science
 * Usability of Machine Learning
 * Software to Support Machine Learning
-* Machine Learning Applications
-* Hands on Jupyter Notebook Exercise: Load and Visualize Data
-* Post-session assignment
-* Q&A Session
+* Types of Learning Tasks and its Applications
+  - Supervised Learning
+  - Unsupervised Learning
+  - Reinforcement Learning
+ 
+* Machine Learning Pipeline
+  - Download the training data
+  - Exploratory data analysis
+  - Extracting training data from tabular dataset
+  - Extracting training data from raster dataset
+  - Training and inference of tabular and raster dataset
+  - Metrics and model evaluation
 
-## Session 4: Machine Learning Model Training
-Description
+## Session 4: Traditional Machine Learning Algorithms
+This section expands on the different learning tasks by discussing an array of traditional machine learing algrithms that can be used to tackle specific machine problems. The participants will learn how to implement and train machine learning models using various algorithms, in the context of Earth Science.
 
-* Download the training data
-* Exploratory data analysis
-* Extracting training data from tabular dataset
-* Extracting training data from raster dataset
-* Training and inference of tabular and raster dataset
-* Metrics and model evaluation
-* Hands on Jupyter Notebook Exercise: MODIS Water Classification Case Study
-* Post-session assignment
-* Q&A Session
+The following topics will be covered:
 
-## Session 5: Model Tuning, Parameter Optimization, & Explainable AI
-Description
+* Supervised Learning Algorithms
+  - Linear Regression
+  - Logistic Regression
+  - k-Nearest Neighbor Classification
+  - Naive Bayes Classification
+  - Support Vector Machine
+  - Decision Trees
+  - Random Forest
+  - Gradient Boosted Trees
+
+* Unsupervised Learning Algorithms
+  - K-Means Clustering
+  - Hierarchical Agglomerative Clustering
+  - Density-Based Spatial Clustering of Applications with Noise
+  - Principal Component Analysis
+
+## Session 5: Introduction to Deep Learning
+This section moves from traditional ML algorithms to those that have resulted from the advent of Artificial Neural Networks. The participants get acquainted with concepts involved in ANN together with the different architectural cofigurations; and how to build and train them.
+
+* Overview of Deep Learning
+* Deep Learning Applications for Earth Sciences
+* Basics of Artificial Neural Networks
+  - Loss Functions
+  - Forward & Backpropagation
+  - Optimization
+* Different Deep Learning Architectures
+  - Multilayer Perceptron Model
+  - Convolutional Neural Network
+  - Recurrent Neural Network
+
+## Session 6: Model Tuning, Parameter Optimization, & Explainable AI
+This section builds upon the previous section and intends to improve the performance of the ML models. The section focuses on techniques to tune the model by optimizing model parameters and hyperparameters. Lastly, it also tackles explainability of the built models in aid of better understanding the physical phenomenon being modeled.
 
 * Overview of model tuning
 * Overview of parameter optimization
 * Exercise to optimize existing model
 * Overview of model explainability and interpretability
-* Hands on Jupyter Notebook Exercise: Improvements to MODIS Water Classification Model
-* Post-session assignment
-* Q&A Session
-
-## Session 6: Introduction to Deep Learning
-Description
+* Current Trends and Research in Intelligent EARTH
