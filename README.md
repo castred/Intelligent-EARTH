@@ -22,14 +22,32 @@ This workshop aims to upskill Physics graduate students on the following: (1) Pr
 This session intends to review/introduce the participants with the common techniques in Data Analysis using Python and its common data processing libraries.
 
 The following topics will be covered:
-* Computational Thinking
+* Introduction to Computational Thinking
 * Python Objects and Functions
 * NumPy: Numerical Python
 * Data Manipulation using Pandas
 * Basic Data Visualization using MatplotLib
 
 ## Session 2: Methods for Geospatial Data Analysis
-Description
+This session aims to narrow the discussion of data analysis to geospatial data structures and the fundamental methods to make meaning out of geospatial data. The main tool remains to be Python but with the addition of geoprocessing-specific libraries.
+
+The following topics will be covered:
+* Introduction to Geospatial Data: Collection and Structure
+* Accessing, Processing, and Visualizing Geospatial Data
+  - Vector Data
+  - Raster Data
+  - Point Cloud Data
+* Overview of Geographic Information Systems
+* Geostatistical Methods
+  - 2D Interpolation
+  - Variogram
+  - Krigging
+* Time Series Analysis & Forecasting
+  - Time Series Decomposition
+  - Autoregressive Model
+  - Moving Average Model
+  - ARIMA Model
+  - Prophet Model
 
 ## Session 3: Overview of Machine Learning
 Description
