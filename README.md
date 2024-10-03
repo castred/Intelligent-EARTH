@@ -121,7 +121,7 @@ This section moves from traditional ML algorithms to those that have resulted fr
 
 <br> </br>
 
-## Session 6: Model Tuning, Explainable AI, Current Trends
+## Session 6: Model Tuning, Explainable AI, & Current Trends
 This section builds upon the previous section and intends to improve the performance of the ML models. The section focuses on techniques to tune the model by optimizing model parameters and hyperparameters. Lastly, it also tackles explainability of the built models in aid of better understanding the physical phenomenon being modeled.
 
 * Overview of model tuning
