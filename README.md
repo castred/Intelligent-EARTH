@@ -10,7 +10,7 @@ This workshop aims to upskill Physics graduate students on the following: (1) Pr
 | Date | Time | Session Title | Key Words |
 | :---: | :---: | :--- |  :---: |
 | 2024-11-xx | AM | [Session 1: Programming for Data Analysis](https://github.com/castred/Intelligent-EARTH/tree/main/session-1) | `python` `numpy` `pandas` `matplotlib` |
-| 2024-11-xx | PM | [Session 2: Methods for Geospatial Data Analysis](https://github.com/castred/Intelligent-EARTH/tree/main/session-2) | `geopandas` `scipy` `statsmodels` `networkx` |
+| 2024-11-xx | PM | [Session 2: Methods for Geospatial Data Analysis](https://github.com/castred/Intelligent-EARTH/tree/main/session-2) | `geopandas` `scipy` `statsmodels` `pyKrige` |
 | 2024-11-xx | AM | [Session 3: Overview of Machine Learning](https://github.com/castred/Intelligent-EARTH/tree/main/session-3) | `scipy` `scikit-learn` `xgboost` |
 | 2024-11-xx | PM | [Session 4: Traditional Machine Learning Algorithms](https://github.com/castred/Intelligent-EARTH/tree/main/session-4) |  `scikit-learn` `sckit-image` `xarray`  |
 | 2024-11-xx | AM | [Session 5: Introduction to Deep Learning](https://github.com/castred/Intelligent-EARTH/tree/main/session-5) | `scipy` `optuna` `scikit-learn` |
