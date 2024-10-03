@@ -117,6 +117,7 @@ This section moves from traditional ML algorithms to those that have resulted fr
   - Multilayer Perceptron Model
   - Convolutional Neural Network
   - Recurrent Neural Network
+  - AutoEncoder Network
 
 <br> </br>
 
