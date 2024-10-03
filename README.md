@@ -13,8 +13,8 @@ This workshop aims to upskill Physics graduate students on the following: (1) Pr
 | 2024-11-xx | PM | [Session 2: Methods for Geospatial Data Analysis](https://github.com/castred/Intelligent-EARTH/tree/main/session-2) | `geopandas` `scipy` `statsmodels` `networkx` |
 | 2024-11-xx | AM | [Session 3: Overview of Machine Learning](https://github.com/castred/Intelligent-EARTH/tree/main/session-3) | `scipy` `scikit-learn` `xgboost` |
 | 2024-11-xx | PM | [Session 4: Machine Learning Model Training](https://github.com/castred/Intelligent-EARTH/tree/main/session-4) |  `scikit-learn` `sckit-image` `xarray`  |
-| 2024-11-xx | AM | [Session 5: Model Tuning, Parameter Optimization, & xAI](https://github.com/castred/Intelligent-EARTH/tree/main/session-5) | `scipy` `optuna` `scikit-learn` |
-| 2024-11-xx | PM | [Session 6: Introduction to Deep Learning](https://github.com/castred/Intelligent-EARTH/tree/main/session-6) | `pytorch` |
+| 2024-11-xx | AM | [Session 5: Introduction to Deep Learning](https://github.com/castred/Intelligent-EARTH/tree/main/session-5) | `scipy` `optuna` `scikit-learn` |
+| 2024-11-xx | PM | [Session 6: Model Tuning, xAI, & Current Trends](https://github.com/castred/Intelligent-EARTH/tree/main/session-6) | `pytorch` |
 
 <br> </br>
 
@@ -110,7 +110,7 @@ This section moves from traditional ML algorithms to those that have resulted fr
   - Convolutional Neural Network
   - Recurrent Neural Network
 
-## Session 6: Model Tuning, Parameter Optimization, & Explainable AI
+## Session 6: Model Tuning, Explainable AI, Current Trends
 This section builds upon the previous section and intends to improve the performance of the ML models. The section focuses on techniques to tune the model by optimizing model parameters and hyperparameters. Lastly, it also tackles explainability of the built models in aid of better understanding the physical phenomenon being modeled.
 
 * Overview of model tuning
