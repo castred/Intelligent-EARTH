@@ -46,12 +46,10 @@ The following topics will be covered:
   - Raster Data
   - Point Cloud Data
 * Overview of Geographic Information Systems
-
 * Geostatistical Methods
   - 2D Interpolation
   - Variogram
   - Krigging
-
 * Time Series Analysis & Forecasting
   - Time Series Decomposition
   - Autoregressive Model
@@ -74,7 +72,6 @@ The following topics will be covered:
   - Supervised Learning
   - Unsupervised Learning
   - Reinforcement Learning
- 
 * Machine Learning Pipeline
   - Download the training data
   - Exploratory data analysis
@@ -99,7 +96,6 @@ The following topics will be covered:
   - Decision Trees
   - Random Forest
   - Gradient Boosted Trees
-
 * Unsupervised Learning Algorithms
   - K-Means Clustering
   - Hierarchical Agglomerative Clustering
