@@ -33,6 +33,8 @@ The following topics will be covered:
 * Data Manipulation using Pandas
 * Basic Data Visualization using MatplotLib
 
+<br> </br>
+
 ## Session 2: Methods for Geospatial Data Analysis
 This session aims to narrow the discussion of data analysis to geospatial data structures and the fundamental methods to make meaning out of geospatial data. The main tool remains to be Python but with the addition of geoprocessing-specific libraries.
 
@@ -57,6 +59,8 @@ The following topics will be covered:
   - ARIMA Model
   - Prophet Model
 
+<br> </br>
+
 ## Session 3: Overview of Machine Learning
 This section contains materials on the introduction to Machine Learning and its applications to Earth Sciences. This will help participants understand the different types of learning tasks and the procedural steps in building machine learning models.
 
@@ -79,6 +83,8 @@ The following topics will be covered:
   - Training and inference of tabular and raster dataset
   - Metrics and model evaluation
 
+<br> </br>
+
 ## Session 4: Traditional Machine Learning Algorithms
 This section expands on the different learning tasks by discussing an array of traditional machine learing algrithms that can be used to tackle specific machine problems. The participants will learn how to implement and train machine learning models using various algorithms, in the context of Earth Science.
 
@@ -100,6 +106,8 @@ The following topics will be covered:
   - Density-Based Spatial Clustering of Applications with Noise
   - Principal Component Analysis
 
+<br> </br>
+
 ## Session 5: Introduction to Deep Learning
 This section moves from traditional ML algorithms to those that have resulted from the advent of Artificial Neural Networks. The participants get acquainted with concepts involved in ANN together with the different architectural cofigurations; and how to build and train them.
 
@@ -113,6 +121,8 @@ This section moves from traditional ML algorithms to those that have resulted fr
   - Multilayer Perceptron Model
   - Convolutional Neural Network
   - Recurrent Neural Network
+
+<br> </br>
 
 ## Session 6: Model Tuning, Explainable AI, Current Trends
 This section builds upon the previous section and intends to improve the performance of the ML models. The section focuses on techniques to tune the model by optimizing model parameters and hyperparameters. Lastly, it also tackles explainability of the built models in aid of better understanding the physical phenomenon being modeled.
