@@ -9,8 +9,8 @@ This workshop aims to upskill Physics graduate students on the following: (1) Pr
 
 | Date | Time | Session Title | Key Words |
 | :---: | :---: | :--- |  :---: |
-| 2024-11-xx | AM | [Session 1: Programming for Data Analysis](https://github.com/castred/Intelligent-EARTH/tree/main/session-1) | `numpy` `pandas` `matplotlib` `folium` |
-| 2024-11-xx | PM | [Session 2: Statistical Methods for Geospatial Data Analysis](https://github.com/castred/Intelligent-EARTH/tree/main/session-2) | `geopandas` `scipy` `statsmodels` `networkx` |
+| 2024-11-xx | AM | [Session 1: Programming for Data Analysis](https://github.com/castred/Intelligent-EARTH/tree/main/session-1) | `python` `numpy` `pandas` `matplotlib` |
+| 2024-11-xx | PM | [Session 2: Methods for Geospatial Data Analysis](https://github.com/castred/Intelligent-EARTH/tree/main/session-2) | `geopandas` `scipy` `statsmodels` `networkx` |
 | 2024-11-xx | AM | [Session 3: Overview of Machine Learning](https://github.com/castred/Intelligent-EARTH/tree/main/session-3) | `scipy` `scikit-learn` `xgboost` |
 | 2024-11-xx | PM | [Session 4: Machine Learning Model Training](https://github.com/castred/Intelligent-EARTH/tree/main/session-4) |  `scikit-learn` `sckit-image` `xarray`  |
 | 2024-11-xx | AM | [Session 5: Model Tuning, Parameter Optimization, & xAI](https://github.com/castred/Intelligent-EARTH/tree/main/session-5) | `scipy` `optuna` `scikit-learn` |
@@ -19,9 +19,16 @@ This workshop aims to upskill Physics graduate students on the following: (1) Pr
 <br> </br>
 
 ## Session 1: Programming for Data Analysis
-Description
+This session intends to review/introduce the participants with the common techniques in Data Analysis using Python and its common data processing libraries.
 
-## Session 2: Statistical Methods for Geospatial Data Analysis
+The following topics will be covered:
+* Computational Thinking
+* Python Objects and Functions
+* NumPy: Numerical Python
+* Data Manipulation using Pandas
+* Basic Data Visualization using MatplotLib
+
+## Session 2: Methods for Geospatial Data Analysis
 Description
 
 ## Session 3: Overview of Machine Learning
