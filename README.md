@@ -9,12 +9,12 @@ This workshop aims to upskill Physics graduate students on the following: (1) Pr
 
 | Date | Time | Session Title | Key Words |
 | :---: | :---: | :--- |  :---: |
-| 2024-11-06 | AM | [Session 1: Programming for Data Analysis](https://github.com/castred/Intelligent-EARTH/tree/main/session-1) | `python` `numpy` `pandas` `matplotlib` |
-| 2024-11-06 | PM | [Session 2: Methods for Geospatial Data Analysis](https://github.com/castred/Intelligent-EARTH/tree/main/session-2) | `geopandas` `scipy` `statsmodels` `pyKrige` |
-| 2024-11-19 | AM | [Session 3: Overview of Machine Learning](https://github.com/castred/Intelligent-EARTH/tree/main/session-3) | `scipy` `scikit-learn` `xgboost` |
-| 2024-11-19 | PM | [Session 4: Traditional Machine Learning Algorithms](https://github.com/castred/Intelligent-EARTH/tree/main/session-4) |  `scikit-learn` `sckit-image` `xarray`  |
-| 2024-11-27 | AM | [Session 5: Introduction to Deep Learning](https://github.com/castred/Intelligent-EARTH/tree/main/session-5) | `scipy` `optuna` `scikit-learn` |
-| 2024-11-27 | PM | [Session 6: Model Tuning, xAI, & Current Trends](https://github.com/castred/Intelligent-EARTH/tree/main/session-6) | `pytorch` |
+| 2024-11-06 | AM 0900-1200 | [Session 1: Programming for Data Analysis](https://github.com/castred/Intelligent-EARTH/tree/main/session-1) | `python` `numpy` `pandas` `matplotlib` |
+| 2024-11-06 | PM 1300-1600 | [Session 2: Methods for Geospatial Data Analysis](https://github.com/castred/Intelligent-EARTH/tree/main/session-2) | `geopandas` `scipy` `statsmodels` `pyKrige` |
+| 2024-11-19 | AM 0900-1200 | [Session 3: Overview of Machine Learning](https://github.com/castred/Intelligent-EARTH/tree/main/session-3) | `scipy` `scikit-learn` `xgboost` |
+| 2024-11-19 | PM 1300-1600 | [Session 4: Traditional Machine Learning Algorithms](https://github.com/castred/Intelligent-EARTH/tree/main/session-4) |  `scikit-learn` `sckit-image` `xarray`  |
+| 2024-11-27 | AM 0900-1200 | [Session 5: Introduction to Deep Learning](https://github.com/castred/Intelligent-EARTH/tree/main/session-5) | `scipy` `optuna` `scikit-learn` |
+| 2024-11-27 | PM 1300-1600 | [Session 6: Model Tuning, xAI, & Current Trends](https://github.com/castred/Intelligent-EARTH/tree/main/session-6) | `pytorch` |
 
 <br> </br>
 
