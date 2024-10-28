@@ -16,6 +16,8 @@ The content of the folders will be uploaded every after session, restricted to t
 | 2024-11-27 W | AM 0900-1200 | [Session 5: Introduction to Deep Learning](https://github.com/castred/Intelligent-EARTH/tree/main/session-5) | `pytorch` |
 | 2024-11-27 W | PM 1300-1600 | [Session 6: Model Tuning, xAI, & Current Trends](https://github.com/castred/Intelligent-EARTH/tree/main/session-6) | `scipy` `optuna` `scikit-learn` |
 
+Venue: STRC 414
+
 <br> </br>
 
 # Outline of Contents
