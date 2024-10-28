@@ -13,8 +13,8 @@ The content of the folders will be uploaded every after session, restricted to t
 | 2024-11-06 | PM 1300-1600 | [Session 2: Methods for Geospatial Data Analysis](https://github.com/castred/Intelligent-EARTH/tree/main/session-2) | `geopandas` `scipy` `statsmodels` `pyKrige` |
 | 2024-11-19 | AM 0900-1200 | [Session 3: Overview of Machine Learning](https://github.com/castred/Intelligent-EARTH/tree/main/session-3) | `scipy` `scikit-learn` `xgboost` |
 | 2024-11-19 | PM 1300-1600 | [Session 4: Traditional Machine Learning Algorithms](https://github.com/castred/Intelligent-EARTH/tree/main/session-4) |  `scikit-learn` `sckit-image` `xarray`  |
-| 2024-11-27 | AM 0900-1200 | [Session 5: Introduction to Deep Learning](https://github.com/castred/Intelligent-EARTH/tree/main/session-5) | `scipy` `optuna` `scikit-learn` |
-| 2024-11-27 | PM 1300-1600 | [Session 6: Model Tuning, xAI, & Current Trends](https://github.com/castred/Intelligent-EARTH/tree/main/session-6) | `pytorch` |
+| 2024-11-27 | AM 0900-1200 | [Session 5: Introduction to Deep Learning](https://github.com/castred/Intelligent-EARTH/tree/main/session-5) | `pytorch` |
+| 2024-11-27 | PM 1300-1600 | [Session 6: Model Tuning, xAI, & Current Trends](https://github.com/castred/Intelligent-EARTH/tree/main/session-6) | `scipy` `optuna` `scikit-learn` |
 
 <br> </br>
 
