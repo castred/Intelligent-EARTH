@@ -5,8 +5,6 @@ This workshop aims to upskill Physics graduate students on the following: (1) Pr
 
 The content of the folders will be uploaded every after session, restricted to the attendance of participants.
 
-<br> </br>
-
 # Schedule of Activities
 
 | Date | Time | Session Title | Key Words |
